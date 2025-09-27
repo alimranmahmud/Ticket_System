@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1001,
+    "title": "API Endpoint Latency Issue",
+    "description": "GET request to /api/v3/users is consistently returning with 500ms+ response times during peak hours.",
+    "customer": "Alpha Corp",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-25T14:30:00Z"
+  },
+  {
+    "id": 1002,
+    "title": "Mobile App Crash on Android 14",
+    "description": "The application crashes immediately after login on devices running the latest Android 14 OS. Needs urgent patch.",
+    "customer": "Beta Solutions",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-24T09:15:00Z"
+  },
+  {
+    "id": 1003,
+    "title": "Request for SSO Integration",
+    "description": "We require Single Sign-On (SSO) integration with our internal Okta system for all employees.",
+    "customer": "Internal",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-26T11:00:00Z"
+  },
+  {
+    "id": 1004,
+    "title": "Incorrect Tax Calculation in Invoice",
+    "description": "Invoices generated for UK customers are using the wrong VAT rate (21% instead of 20%).",
+    "customer": "Gamma Systems",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-26T16:45:00Z"
+  },
+  {
+    "id": 1005,
+    "title": "Feature: Export Data to CSV",
+    "description": "Add an option to export the data grid contents directly into a downloadable CSV file.",
+    "customer": "Delta Inc.",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-23T10:00:00Z"
+  },
+  {
+    "id": 1006,
+    "title": "System Outage Notification Delay",
+    "description": "Automated system downtime alerts are being delayed by up to 15 minutes. Investigate notification service.",
+    "customer": "Internal",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-22T12:00:00Z"
+  },
+  {
+    "id": 1007,
+    "title": "Typo on Homepage Footer",
+    "description": "The copyright date in the footer of the main homepage is showing '2024' instead of '2025'.",
+    "customer": "Echo Group",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-27T08:30:00Z"
+  },
+  {
+    "id": 1008,
+    "title": "User Profile Image Upload Failing",
+    "description": "Users are receiving a '413 Payload Too Large' error when attempting to upload a new profile picture, even for small files.",
+    "customer": "Foxtrot Ltd.",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-27T09:45:00Z"
+  },
+  {
+    "id": 1009,
+    "title": "Request for Data Retention Policy Update",
+    "description": "The internal data retention policy needs to be reviewed and updated to comply with new regional regulations.",
+    "customer": "Legal Department",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-20T15:00:00Z"
+  },
+  {
+    "id": 1010,
+    "title": "Stuck Pending Status for Bulk Jobs",
+    "description": "Several bulk data processing jobs are stuck in 'Pending' status and not being picked up by the workers.",
+    "customer": "Hotel Industries",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-27T10:05:00Z"
+  },
+  {
+    "id": 1011,
+    "title": "Browser Compatibility Issue (IE11)",
+    "description": "The application layout is completely broken when viewed using Internet Explorer 11. (Note: Should be deprecated soon).",
+    "customer": "India Partners",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-19T13:10:00Z"
+  },
+  {
+    "id": 1012,
+    "title": "Monitor Disk Space on Server",
+    "description": "The primary production database server is running low on disk space (under 10% free). Requires urgent cleanup or expansion.",
+    "customer": "Internal",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-27T11:15:00Z"
+  }
+]
